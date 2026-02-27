@@ -36,7 +36,7 @@
     "resend": "^4.1.2"
   },
   "devDependencies": {
-    "@opennextjs/cloudflare": "^1.8.4",
+    "@opennextjs/cloudflare": "1.8.4",
     "@eslint/eslintrc": "^3",
     "@types/node": "^20",
     "@types/react": "^18",
