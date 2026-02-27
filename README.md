@@ -40,6 +40,20 @@ npm run build
 npm start
 ```
 
+### Cloudflare Workers (Next.js/OpenNext)
+
+This repo is configured for Cloudflare Workers via OpenNext.
+
+```bash
+npm install
+npm run build:worker
+npm run deploy
+```
+
+Cloudflare dashboard build/deploy commands:
+- Build command: `npm run build:worker`
+- Deploy command: `npm run deploy`
+
 ## Future Ideas
 
 - [ ] do not send whatsapp link, add to webpage - waitlist
